@@ -1,0 +1,11 @@
+body{
+	background-color:#EBC3DB;
+}
+
+h1 {
+	font-family: 'Antonio', sans-serif;
+	color:#330036;
+	border-color: #330036;
+	border-width: 5px;
+	border-style: inset;
+}
